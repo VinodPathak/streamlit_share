@@ -89,3 +89,4 @@ webencodings==0.5.1
 widgetsnbextension==3.5.1
 zipp==3.3.0
 yfinance==0.1.54
+streamlit==0.70.0
